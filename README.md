@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**My GitHub stats**
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenphamngocquy&show_icons=true&locale=en&hide_border=true" alt="nguyenphamngocquy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenphamngocquy&show_icons=true&locale=en&layout=compact&hide_border=true" alt="nguyenphamngocquy"/>
+  </span>
+</p>
+
 <!--
 **nguyenphamngocquy/nguyenphamngocquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
